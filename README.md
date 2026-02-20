@@ -45,4 +45,4 @@ Este projeto foi criado para prática de:
 
 ---
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por [Ruan Carlos]

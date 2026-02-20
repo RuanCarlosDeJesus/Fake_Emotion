@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file": "../../img/bracelet.png",
+      "name": "Silver Bracelet",
+      "category": "accessories"
+    },
+    {
+      "id": 2,
+      "file": "broken_Heart.png",
+      "name": "Broken Heart Graphic",
+      "category": "prints"
+    },
+    {
+      "id": 3,
+      "file": "brokenHeart.png",
+      "name": "Heart Minimal",
+      "category": "prints"
+    },
+    {
+      "id": 4,
+      "file": "JacketBack.png",
+      "name": "Dark Jacket Back",
+      "category": "clothing"
+    },
+    {
+      "id": 5,
+      "file": "jersey_boy.png",
+      "name": "Jersey Boy",
+      "category": "clothing"
+    },
+    {
+      "id": 6,
+      "file": "toPAst.png",
+      "name": "To Past Artwork",
+      "category": "art"
+    }
+  ]
+}
