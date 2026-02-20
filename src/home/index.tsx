@@ -149,7 +149,7 @@ export function Home() {
                 <img
                   src={`/img/${item.file}`}
                   alt={item.name}
-                  className="w-full h-full object-cover"
+                  className="w-full h-72 md:h-96 object-cover"
                 />
 
                 <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/30 to-transparent"></div>
