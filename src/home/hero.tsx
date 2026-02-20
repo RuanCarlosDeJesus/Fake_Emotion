@@ -1,4 +1,4 @@
-import Img_Jersey from "../../img/backgroundBoy.png";
+import Img_Jersey from "../../public/img/backgroundBoy.png"
 
 export function Hero() {
   return (
