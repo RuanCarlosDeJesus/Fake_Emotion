@@ -2,7 +2,7 @@
   "images": [
     {
       "id": 1,
-      "file": "../../img/bracelet.png",
+      "file": "bracelet.png",
       "name": "Silver Bracelet",
       "category": "accessories"
     },

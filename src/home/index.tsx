@@ -149,7 +149,7 @@ export function Home() {
                 <img
                   src={`/img/${item.file}`}
                   alt={item.name}
-                  className="w-full h-100 object-cover"
+                  className="w-full h-full object-cover"
                 />
 
                 <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/30 to-transparent"></div>
@@ -220,9 +220,10 @@ export function Home() {
               </div>
             </div>
           </section>
-           <footer className="flex justify-center items-center w-full bg-linear-to-t from-black/80 via-black/30 to-transparent">Desenvolvido por @ruan__cr</footer>
+          <footer className="flex justify-center items-center w-full bg-linear-to-t from-black/80 via-black/30 to-transparent">
+            Desenvolvido por @ruan__cr
+          </footer>
         </main>
-       
       </div>
     </div>
   );
